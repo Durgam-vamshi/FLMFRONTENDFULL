@@ -1,7 +1,7 @@
 
 
 import React, { useEffect, useState } from "react";
-import { fetchCompanies } from "../api/companyService";
+import { fetchCompanies } from "../api/CompanyService";
 import Filters from "../components/Filters";
 import CompanyTable from "../components/CompanTable";
 
